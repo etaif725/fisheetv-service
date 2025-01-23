@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.stremio.Service</id>
+  
+  <name>FisheeTV Service</name>
+  <summary>On Demand. Always</summary>
+  <developer_name>Stremio & FisheeTV</developer_name>
+  <url type="homepage">https://fisheet.tv</url>
+  
+  <metadata_license>MIT</metadata_license>
+  <project_license>GPL-2.0</project_license>
+  <content_rating type="oars-1.1" />
+  
+  <description>
+    <p>
+      Lets you run a local Stremio server in the background with customized FisheeTV proxies and private servers remotely.
+    </p>
+  </description>
+
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/Stremio/stremio-service/master/resources/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  
+  <launchable type="desktop-id">com.stremio.Service.desktop</launchable>
+
+  <releases>
+    <release version="0.1.13" date="2024-03-28" />
+    <release version="0.1.12" date="2023-12-19" />
+    <release version="0.1.11" date="2023-12-18" />
+    <release version="0.1.10" date="2023-11-29" />
+    <release version="0.1.9" date="2023-11-29" />
+    <release version="0.1.8" date="2023-10-05" />
+    <release version="0.1.7" date="2023-10-05" />
+    <release version="0.1.6" date="2023-06-01" />
+    <release version="0.1.5" date="2023-05-31" />
+    <release version="0.1.4" date="2023-05-31" />
+    <release version="0.1.3" date="2023-05-31" />
+  </releases>
+</component>
